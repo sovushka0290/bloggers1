@@ -1,0 +1,6 @@
+{
+  "name": "Bloggers Awards Kazakhstan 2026",
+  "description": "Официальный сайт национальной премии блогеров, инфлюенсеров и креаторов Казахстана. 8 декабря 2026, Астана. Met Gala стиль.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
